@@ -16,7 +16,7 @@
 </a>
 </p>
 <p align="center">
-<i>Take a look at my repositories and let's get in touch!</i>
+<i>Want to hire me? Get in touch with me via. Discord!</i>
 </p>
 
 ---
