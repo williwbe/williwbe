@@ -1,0 +1,30 @@
+<svg width="800" height="200" viewBox="0 0 800 200"
+     xmlns="http://www.w3.org/2000/svg">
+
+<style>
+.text {
+  font-family: "Segoe UI", sans-serif;
+  font-size: 80px;
+  fill: none;
+
+  stroke: #39ff14; /* bright neon green */
+  stroke-width: 3;
+
+  stroke-dasharray: 1000;
+  stroke-dashoffset: 1000;
+
+  animation: draw 4s ease forwards;
+}
+
+@keyframes draw {
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+</style>
+
+<text x="50%" y="55%" text-anchor="middle" class="text">
+Willi Weber
+</text>
+
+</svg>
