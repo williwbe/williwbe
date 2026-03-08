@@ -17,7 +17,7 @@
 
   filter: url(#neon);
 
-  animation: draw 8s ease forwards, flicker 4s infinite 4s;
+  animation: draw 15s ease forwards, flicker 4s infinite 4s;
 }
 
 @keyframes draw {
