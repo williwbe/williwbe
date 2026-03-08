@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/williwbe/williwbe/e1a8f70d5d7129b37b329d91ee5ab59f01a8edf3/willi-weber.svg"/>
+  <img src="https://raw.githubusercontent.com/williwbe/williwbe/e732b6ae6bf45e454a82f708c32d4b56227caf3e/willi-weber.svg"/>
 </p>
 
 <h2 align="center">Discord Profile</h2>
