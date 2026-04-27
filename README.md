@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/williwbe/williwbe/9c98febc559159c901c756e9d4cc659992f912ca/willi-weber.svg"/>
-</p>
-
 <h2 align="center">Discord Profile</h2>
 
 <p align="center">
