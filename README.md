@@ -1,6 +1,6 @@
 <h2 align="center">
   Willi
-  <img 
+  <img
     src="https://www.fg-a.com/flags/animated-german-flag.gif"
     width="30"
     height="22"
@@ -14,11 +14,19 @@
 
 <p align="center">
   <a href="https://www.youtube.com/@williwbe">
-    <img src="https://img.shields.io/badge/YouTube-williwbe-red?style=for-the-badge&logo=youtube&logoColor=white"/>
+    <img src="./youtube.png" width="40" alt="YouTube"/>
   </a>
 
   <a href="https://discord.com/users/1030766914047332443">
-    <img src="https://img.shields.io/badge/Discord-willi.wbe-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+    <img src="./discord.png" width="40" alt="Discord"/>
+  </a>
+
+  <a href="https://www.instagram.com/privatewbe">
+    <img src="./instagram.png" width="40" alt="Instagram"/>
+  </a>
+
+  <a href="https://www.tiktok.com/@priv.wbe">
+    <img src="./tiktok.png" width="40" alt="TikTok"/>
   </a>
 </p>
 
@@ -26,27 +34,48 @@
   <i>Want to hire me? Get in touch with me via Discord!</i>
 </p>
 
-<h2></h2>
+<hr>
 
 <p align="center">
-  <img src="https://anticheat.ac/home/ocean_logosvg.svg" width="320"/>
+  <img src="./ocean_anticheat.png" width="180"/>
 </p>
 
 <p align="center">
   <a href="https://discord.gg/oceanscanner">
-    <img src="https://img.shields.io/badge/Discord-OceanScanner-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+    <img src="./discord.png" width="40" alt="Discord"/>
   </a>
 
   <a href="https://www.youtube.com/@OceanAntiCheat">
-    <img src="https://img.shields.io/badge/YouTube-OceanAntiCheat-red?style=for-the-badge&logo=youtube&logoColor=white"/>
+    <img src="./youtube.png" width="40" alt="YouTube"/>
+  </a>
+
+  <a href="https://www.tiktok.com/@oceananticheat">
+    <img src="./tiktok.png" width="40" alt="TikTok"/>
   </a>
 </p>
 
 <p align="center">
   <b>Upper Management at <a href="https://anticheat.ac">anticheat.ac</a></b>
 </p>
+<hr>
+<p align="center">
+  <img src="./storm_main.png" width="50"/>
+</p>
 
-<h2></h2>
+<p align="center">
+  <a href="https://discord.gg/scanning">
+    <img src="./discord.png" width="40" alt="Discord"/>
+  </a>
+  <a href="https://www.youtube.com/@StormScreenShare">
+    <img src="./youtube.png" width="40" alt="YouTube"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>COO at <a href="https://stormss.cc/">stormss.cc</a></b>
+</p>
+
+<hr>
 
 <h2 align="center">Languages & Frameworks</h2>
 
@@ -56,7 +85,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML3-orange?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
